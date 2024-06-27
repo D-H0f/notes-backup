@@ -27,7 +27,7 @@ options you can add onto the base docker command are
 		executes a command in a docker container.
 	[[docker rm]]
 		remove one or more containers.
-	docker builder
-		manage builds
+	[[docker build]]
+		Build an image from a dockerfile
 
 TAGS: #docker #linux #tools

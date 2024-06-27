@@ -1,16 +1,13 @@
-A replacement for running software in virtual machines
-where a VM virtualizes hardware, docker virtualizes an OS environment
+For specific docker commands, see ==> [[docker commands]]
 
-docker runs processes on containers, quarantined environments that can be as lightweight or as powerful as needed, and can be thought of as micro computers.
+***what is docker***:
+	Docker is virtualization software.
+	A replacement for running software in virtual machines. where a VM virtualizes hardware, docker virtualizes an OS environment
+	packages application with all the necessary dependencies, configuration, system tools and runtime.
+***docker vs virtual machine***:
+	on a computer, there are three layers. hardware layer, kernal layer, and application layer. a virtual machine virtualizes a new kernal for each environment, while a docker container virtualizes multiple application layers on the same kernal. This means docker containers are faster to start, easier to copy and share, and take up less disk space, at the cost of only being able to run containers on compatable operating systems.
 
-to get a specific environment, you can create an image of your current environment, or you can use a specific one offered by docker by using:
-	docker pull ubuntu
-	or
-	docker pull python
-and add
-	FROM python:3.12-bookworm
-to your Dockerfile to use it as the container environment
+***GUIDES***:
 
-here is a list of docker commands: [[docker commands]]
 
 TAGS: #docker #linux #tools
