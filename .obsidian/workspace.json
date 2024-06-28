@@ -6,7 +6,7 @@
       {
         "id": "911723a4ed4f7d3e",
         "type": "tabs",
-        "dimension": 71.00290697674419,
+        "dimension": 67.36918604651163,
         "children": [
           {
             "id": "ef93db354cab3c60",
@@ -14,19 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software-Development/Docker/docker run.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "709b7889e04a9ef8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software-Development/Docker/docker build.md",
+                "file": "Software-Development/Docker/Dockerfile.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,19 +26,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software-Development/Programming/work.md",
+                "file": "sensitive/work.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "a8e440f5038ac3bc",
         "type": "tabs",
-        "dimension": 28.997093023255815,
+        "dimension": 32.63081395348838,
         "children": [
           {
             "id": "b3a6d7aebd177bb9",
@@ -126,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software-Development/Programming/work.md",
+                "file": "Software-Development/Docker/Dockerfile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software-Development/Programming/work.md",
+                "file": "Software-Development/Docker/Dockerfile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software-Development/Programming/work.md"
+                "file": "Software-Development/Docker/Dockerfile.md"
               }
             }
           }
@@ -188,19 +175,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "98f5df89565cdde8",
+  "active": "ef93db354cab3c60",
   "lastOpenFiles": [
-    "Software-Development/Docker/docker build.md",
+    "sensitive/work.md",
+    "Software-Development/Docker/Dockerfile.md",
+    "sensitive",
+    "Software-Development/Docker/Dockerfile ADD.md",
+    "Software-Development/Docker/docker commands.md",
+    "Software-Development/Docker/docker ps.md",
+    "Software-Development/Docker/Dockerfile ENTRYPOINT.md",
     "Software-Development/Docker/docker run.md",
+    "(Dockerfile.md",
+    "Software-Development/Docker/docker build.md",
     "obsidian.css~",
     "obsidian.css",
-    "Software-Development/Docker/Dockerfile.md",
-    "Software-Development/Docker/docker commands.md",
     "Software-Development/Docker/docker.md",
     "Software-Development/Docker/docker exec.md",
-    "Software-Development/Docker/docker ps.md",
     "Software-Development/Docker/docker rm.md",
-    "Software-Development/Programming/work.md",
     "Software-Development/Programming/statement.md",
     "Software-Development/Programming/coroutines.md",
     "Software-Development/Programming/jenkins.md",
