@@ -1,0 +1,8 @@
+.workspace-leaf-content .cm-scroller pre {
+  max-width: none; /* Remove any existing width restrictions */
+}
+
+.workspace-leaf-content .cm-contentContainer pre {
+    padding: 10px; /* Adjust the padding value as needed */
+    max-width: none;
+}

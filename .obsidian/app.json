@@ -1,7 +1,7 @@
 {
   "alwaysUpdateLinks": true,
   "vimMode": true,
-  "spellcheck": false,
+  "spellcheck": true,
   "showUnsupportedFiles": true,
   "strictLineBreaks": false,
   "autoPairMarkdown": false

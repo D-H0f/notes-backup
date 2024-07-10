@@ -19,7 +19,7 @@ Dockerfile Instructions:
 	[SHELL](Dockerfile%20SHELL.md) : Set the default shell of an image.
 	[STOPSIGNAL](Dockerfile%20STOPSIGNAL.md) : Specify the system call signal for exiting a container.
 	[USER](Dockerfile%20USER) : Set user and group ID.
-	[VOLUME](Dockerfile%20VOLUME) : Create volume mounts.
+	[VOLUME](Dockerfile%20VOLUME.md) : Create volume mounts.
 	[WORKDIR](Dockerfile%20WORKDIR.md) : Change working directory.
 Format:
 	\#comment

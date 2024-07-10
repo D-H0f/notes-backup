@@ -1,0 +1,2 @@
+Description:
+	The VOLUME instruction creates a mount point with the specified name and marks it as holding externally mounted volumes from the native host or other containers. The value can be a JSON array
