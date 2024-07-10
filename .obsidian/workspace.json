@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software-Development/Programming/Python/json.md",
+                "file": "Software-Development/Programming/Python/python modules.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software-Development/Programming/Python/json.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +133,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software-Development/Programming/Python/json.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,9 +154,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Software-Development/Programming/Python/json.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -212,19 +208,19 @@
       }
     ]
   },
-  "active": "575165749a34ae41",
+  "active": "3d44a84210cba465",
   "lastOpenFiles": [
-    "Software-Development/Programming/Python/logging.md",
-    "sensitive/di_mssql.py logic.md",
-    "Software-Development/Programming/Python/json.md",
-    "Software-Development/Programming/Python/pathlib.md",
-    "Software-Development/Programming/Python/modules.md",
+    "Software-Development/Programming/Python/python modules.md",
+    "Software-Development/Programming/Python/jaydebeapi.md",
     "sensitive/di_mssql.md",
+    "Software-Development/Programming/Python/json.md",
+    "sensitive/di_mssql.py logic.md",
+    "Software-Development/Programming/Python/logging.md",
+    "Software-Development/Programming/Python/pathlib.md",
     "Software-Development/Docker/docker ps.md",
     "sensitive/quick-edit~",
     "sensitive/temp.txt",
     "sensitive/work.md",
-    "Software-Development/Programming/Python/jaydebeapi.md",
     "sensitive/quick-edit",
     "sensitive/quick-edit.py~",
     "sensitive/quick-edit.py",
